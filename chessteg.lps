@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="chessteg.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="57"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitchesstegmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmChessteg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitChesstegMain"/>
+        <CursorPos X="38" Y="300"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unitchesstegengine.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitChesstegEngine"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="592"/>
+        <CursorPos X="28" Y="41"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unitchesstegmain.lfm"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="191"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="27" HistoryIndex="26">
+      <Position1>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2689" Column="46" TopLine="2655"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2560" Column="58"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2796" Column="24" TopLine="2679"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2712" Column="20" TopLine="2703"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2764" Column="15" TopLine="2755"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="392" Column="26" TopLine="97"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="317" Column="54" TopLine="310"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="346" TopLine="344"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="347" Column="8" TopLine="345"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="357" Column="71" TopLine="325"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="347" Column="32" TopLine="313"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="188" Column="22" TopLine="164"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="362" Column="5" TopLine="94"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="306" Column="62" TopLine="82"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="35" Column="3" TopLine="35"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="182" TopLine="141"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2809" Column="58" TopLine="2801"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2715" Column="19" TopLine="2712"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="365" Column="38" TopLine="318"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2742" Column="60" TopLine="2742"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2800" Column="26" TopLine="2766"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unitchesstegengine.pas"/>
+        <Caret Line="2754" Column="24" TopLine="2711"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="326" Column="6" TopLine="310"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="347" Column="17" TopLine="306"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="319" Column="108" TopLine="301"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="316" Column="9" TopLine="300"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unitchesstegmain.pas"/>
+        <Caret Line="320" Column="89" TopLine="309"/>
+      </Position27>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
